@@ -14,7 +14,7 @@ if not KEY or KEY == "" then
     return
 end
 
-local keyData = fetch("https://raw.githubusercontent.com/JoyHub2026/JoyHub/main/keys.txt")
+local keyData = fetch("https://raw.githubusercontent.com/JoyHub2026/JoyHub2026/main/keys.txt")
 
 if not keyData then
     LP:Kick("LunarHub: Could not reach key server!")
