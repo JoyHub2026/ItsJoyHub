@@ -39,7 +39,7 @@ end
 print("PlaceId:", game.PlaceId)
 print("GameId:", game.GameId)
 
-if game.PlaceId == 13822889 then
+if game.PlaceId == 2788229376 then
     -- Da Hood
     loadstring(fetch("https://raw.githubusercontent.com/JoyHub2026/JoyHubDaHood/main/JoyHubDaHood.lua"))()
 
